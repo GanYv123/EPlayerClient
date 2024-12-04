@@ -31,6 +31,7 @@ SOURCES += \
     main.cpp \
     mediabase.cpp \
     mediamp4.cpp \
+    messageform.cpp \
     qmediaplayer.cpp \
     qscreentop.cpp \
     qstatuscheck.cpp \
@@ -44,6 +45,7 @@ HEADERS += \
     loginform.h \
     mediabase.h \
     mediamp4.h \
+    messageform.h \
     qmediaplayer.h \
     qscreentop.h \
     qstatuscheck.h \

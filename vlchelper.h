@@ -7,10 +7,10 @@
 typedef long long ssize_t; // 使用 long long 定义 ssize_t 类型
 #endif
 
-#include "vlc.h" // VLC 媒体播放器库的头文件
-#include <QString> // Qt 字符串类
-#include <QWidget> // Qt 窗口部件类
-#include <fstream> // C++ 文件流类
+#include "vlc.h"
+#include <QString>
+#include <QWidget>
+#include <fstream>
 #include "mediamp4.h" // MP4 媒体处理类
 
 // vlcmedia 类用于处理 VLC 媒体的打开、读取和关闭等操作

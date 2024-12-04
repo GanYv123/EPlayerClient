@@ -800,7 +800,6 @@ color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(39, 40, 4
     <font>
      <family>黑体</family>
      <pointsize>20</pointsize>
-     <weight>75</weight>
      <italic>false</italic>
      <bold>true</bold>
     </font>
