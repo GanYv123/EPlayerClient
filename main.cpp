@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     w.hide();
     LoginForm login;
     login.show();
-    login.connect(&login,&LoginForm::login,&w,&Widget::show);
+    login.connect(&login,&LoginForm::login,&w,&Widget::on_show);
 
     qDebug() << __FILE__ << "(" << __LINE__ << "):";
     int ret = a.exec();

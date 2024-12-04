@@ -4,6 +4,7 @@
 #include <QPainter>
 #include <QPixmap>
 #include <QScreen>
+#include <Windows.h> // 包含 Windows API，用于 HBITMAP 和 HWND 的操作
 
 RECT rect;
 

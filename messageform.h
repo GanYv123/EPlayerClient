@@ -1,7 +1,6 @@
 ﻿#ifndef MESSAGEFORM_H
 #define MESSAGEFORM_H
 
-#include <Windows.h> // 包含 Windows API，用于 HBITMAP 和 HWND 的操作
 #include <QWidget>   // 基类 QWidget 的头文件
 #include <QImage>    // 用于图像处理的类
 
